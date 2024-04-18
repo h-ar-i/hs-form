@@ -1,0 +1,1 @@
+// export const ServerUrl = "https://sampleregistrationtest-server-1.onrender.com"
